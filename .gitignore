@@ -29,50 +29,9 @@ bld/
 #[Ll]og/
 #[Ll]ogs/
 
-# MMD folders structure
+#folders structure
 /[Oo]utput/
 !/[Rr]elease/
-
-# MMD Localization structure
-RWTProtocols/
-
-# FinalBuilder and InstallShield Output Folders
-Release/Setup Builds
-Release/Assets/ChineseSimplified/setup/Library/Web
-Release/Assets/ChineseSimplified/setup/Library Zips
-Release/Assets/Dutch/setup/Library/Web
-Release/Assets/Dutch/setup/Library Zips
-Release/Assets/English/setup/Library/Web
-Release/Assets/English/setup/Library Zips
-Release/Assets/French/setup/Library/Web
-Release/Assets/French/setup/Library Zips
-Release/Assets/German/setup/Library/Web
-Release/Assets/German/setup/Library Zips
-Release/Assets/Japanese/setup/Library/Web
-Release/Assets/Japanese/setup/Library Zips
-Release/Assets/Russian/setup/Library/Web
-Release/Assets/Russian/setup/Library Zips
-Release/Assets/Spanish/setup/Library/Web
-Release/Assets/Spanish/setup/Library Zips
-Release/Installer/Source/MindManagerWorking
-Release/Installer/Source/MindManager/String*.txt
-Release/Installer/Source/MindManager/Setup.*
-MindManager/UpdatedFiles.txt
-Release/Scripts/MindManager.fbl8
-Release/Scripts/MindManager.fbpbrk
-Release/Scripts/MindManager.fbpInf
-Release/Scripts/MindManagerLoc.fbl8
-Release/Scripts/MindManagerLoc.fbpInf
-Release/Installer/Support/Resources/Common/MMCA.dll
-
-
-# Visual Studio 2015/2017 cache/options directory
-.vs/
-# Uncomment if you have tasks that create the project's static files in wwwroot
-#wwwroot/
-
-# Visual Studio 2017 auto generated files
-Generated\ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
